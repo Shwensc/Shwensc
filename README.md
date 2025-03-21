@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working daily to be a better programmer. 😊😊
+Turning tea into code and ideas into reality—always learning, always building 🙏🙏
 
 
 # 💻 Tech Stack:
