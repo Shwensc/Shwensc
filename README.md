@@ -11,9 +11,6 @@ Turning tea into code and ideas into reality—always learning, always building 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shwensc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shwensc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
