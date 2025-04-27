@@ -1,5 +1,5 @@
 # 💫 About Me:
-Turning tea into code and ideas into reality—always learning, always building 🙏🙏
+I just like to solve problems. Programming is just a medium.
 
 
 # 💻 Tech Stack:
