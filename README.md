@@ -12,16 +12,9 @@ I like to solve problems. Programming is just a medium.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-## 🏆 GitHub Trophies
+## 😊 My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shwensc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️Quote of the Day
+### ✍🫡 Read to get motivated
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shwensc&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shwensc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
