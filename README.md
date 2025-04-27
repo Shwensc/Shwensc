@@ -15,6 +15,6 @@ I like to solve problems. Programming is just a medium.
 ## 😊 My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shwensc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##🫡 Read to get motivated
+## 🫡 Read to get motivated
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
