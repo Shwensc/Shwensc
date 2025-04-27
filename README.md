@@ -1,5 +1,5 @@
 # 💫 About Me:
-I just like to solve problems. Programming is just a medium.
+I like to solve problems. Programming is just a medium.
 
 
 # 💻 Tech Stack:
