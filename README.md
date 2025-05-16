@@ -12,9 +12,9 @@ I like to solve problems. Programming is just a medium.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-## 😊 My Trophies
+# 😊 My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shwensc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🫡 Read to get motivated
+# 🫡 Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
